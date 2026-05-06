@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "1.2.0",
   "url": "https://github.com/blueblack123123/trading-app-releases/releases/latest/download/TradingApp.zip",
-  "notes": "Добавлена система обновлений."
+  "notes": "Добавлен отдельный блок обновлений, информация о версии и улучшены кнопки настроек."
 }
