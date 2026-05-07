@@ -1,5 +1,8 @@
 {
   "version": "1.4.4",
-  "url": "https://github.com/blueblack123123/trading-app-releases/releases/latest/download/SC_Trade.zip",
+  "urlы": [
+    "https://github.com/blueblack123123/trading-app-releases/releases/latest/download/SC_Trade.zip",
+    "https://drive.google.com/uc?export=download&id=1dqHnPTMqbRzOyE2atqzOvLk78mYfC43h"
+  ]
   "notes": "Добавлено окно отображения прогресса обновления. Исправлено цветовое отображение названия предметов. Отображение выбранной версии бэкапа. Обновлен скролл."
 }
