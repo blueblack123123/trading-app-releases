@@ -1,9 +1,9 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "urls": [
     "https://github.com/blueblack123123/trading-app-releases/releases/latest/download/SC_Trade.zip",
     "https://drive.google.com/uc?export=download&id=1dqHnPTMqbRzOyE2atqzOvLk78mYfC43h"
   ],
-  "sha256": "f9dfe8b6105f6d6fc7964c1fc691b4416e05589c89abb12ed471d1f8f872700f",
-  "notes": "Исправлено отображение артефактов. Обновлен скролл на всех страницах."
+  "sha256": "03f2db8399e78d8ef7c6c1d046516802fe65031c9d1c5bca33da65c447fb3e3e",
+  "notes": "Что нового:\n• Добавлены иконки приложения и updater.\n• Улучшено отображение таблиц и категорий.\n• Исправлена продажа артефактов по качеству.\n• Улучшена стабильность обновлений."
 }
