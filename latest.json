@@ -4,6 +4,6 @@
     "https://github.com/blueblack123123/trading-app-releases/releases/latest/download/SC_Trade.zip",
     "https://drive.google.com/uc?export=download&id=1dqHnPTMqbRzOyE2atqzOvLk78mYfC43h"
   ],
-  "sha256": "122276ba5606971d4aef7daf09a63756eeb1af0db01f70fb941d9e98e702bf809",
+  "sha256": "122276ba5606971d4aef7daf09a63756eeb1af0db01f70fb941d9e98e702bf80",
   "notes": "Добавлены рамки иконок в таблицах.\n• Улучшено отображение таблиц и категорий.\n• Исправлено отображение кнопок в корзине.\n• Оптимизированны процессы.\n• При обновлении теперь создается бэкап.\n• На графиках карточка подсказки не исчезает. \n•\n•\n• ДОЛГОЖДАННЫЙ АУКЦИОН!"
 }
